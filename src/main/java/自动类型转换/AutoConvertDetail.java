@@ -1,4 +1,4 @@
-package 自动类型转换_10;
+package 自动类型转换;
 
 //自动类型转换细节
 public class AutoConvertDetail {

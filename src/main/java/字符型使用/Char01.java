@@ -1,4 +1,4 @@
-package 字符型使用_7;
+package 字符型使用;
 
 /**
  * 演示Char的基本使用

@@ -1,4 +1,4 @@
-package 整形细节_5;
+package 整形细节;
 
 public class Var05 {
     public static void main(String[] args) {

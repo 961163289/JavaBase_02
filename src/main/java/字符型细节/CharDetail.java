@@ -1,4 +1,4 @@
-package 字符型细节_8;
+package 字符型细节;
 
 public class CharDetail {
     public static void main(String[] args) {

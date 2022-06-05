@@ -1,4 +1,4 @@
-package 强制类型转换_11;
+package 强制类型转换;
 
 public class ForceConvertDetail {
     public static void main(String[] args) {

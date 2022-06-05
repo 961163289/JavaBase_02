@@ -1,4 +1,4 @@
-package 加号使用_4;
+package 加号使用;
 
 public class Var04 {
     public static void main(String[] args) {

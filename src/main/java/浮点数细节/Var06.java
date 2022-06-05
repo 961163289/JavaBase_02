@@ -1,4 +1,4 @@
-package 浮点数细节_6;
+package 浮点数细节;
 
 public class Var06 {
     public static void main(String[] args) {

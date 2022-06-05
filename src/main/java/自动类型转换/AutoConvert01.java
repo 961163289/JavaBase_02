@@ -1,4 +1,4 @@
-package 自动类型转换_10;
+package 自动类型转换;
 
 public class AutoConvert01 {
     public static void main(String[] args) {

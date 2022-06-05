@@ -1,4 +1,4 @@
-package String和基本类型转换_12;
+package String和基本类型转换;
 
 public class StringToBasic {
     public static void main(String[] args) {

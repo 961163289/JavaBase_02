@@ -1,4 +1,4 @@
-package 变量概念_1;
+package 变量概念;
 
 public class Var01 {
     public static void main(String[] args) {

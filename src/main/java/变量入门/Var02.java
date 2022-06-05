@@ -1,4 +1,4 @@
-package 变量入门_2;
+package 变量入门;
 
 public class Var02 {
     public static void main(String[] args) {

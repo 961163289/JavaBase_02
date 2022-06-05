@@ -1,4 +1,4 @@
-package String和基本类型转换_12;
+package String和基本类型转换;
 
 /**
  * 演示字符串转基本数据类型的细节

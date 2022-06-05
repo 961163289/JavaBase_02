@@ -1,4 +1,4 @@
-package 布尔类型_9;
+package 布尔类型;
 
 public class Boolean01 {
     public static void main(String[] args) {

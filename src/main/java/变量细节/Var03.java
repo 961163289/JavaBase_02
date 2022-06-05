@@ -1,4 +1,4 @@
-package 变量细节_3;
+package 变量细节;
 
 public class Var03 {
     public static void main(String[] args) {
